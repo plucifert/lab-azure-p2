@@ -1,0 +1,4 @@
+"AadClientId": "a6d9ee38-fe8e-421a-9c72-355925c5cc70",
+"AadSecret": "GpS8Q~dObV4Rjw6pnjLP_BCLfxe5ttwy2tcP0a4s",
+"AadTenantDomain": "runonmelab.onmicrosoft.com",
+"AadTenantId": "696e3c64-32dd-4e8a-8850-f3071d6dcaa9",
